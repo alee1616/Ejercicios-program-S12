@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jesyg\\grafos\\Ejercicios-program-S12\\Ejercicio1S12\\Ejercicio1S12.csproj": {}
+    "C:\\Users\\jesyg\\grafos\\Ejercicios-program-S12\\Ejercicio2S12\\Ejercicio2S12.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jesyg\\grafos\\Ejercicios-program-S12\\Ejercicio1S12\\Ejercicio1S12.csproj": {
+    "C:\\Users\\jesyg\\grafos\\Ejercicios-program-S12\\Ejercicio2S12\\Ejercicio2S12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jesyg\\grafos\\Ejercicios-program-S12\\Ejercicio1S12\\Ejercicio1S12.csproj",
-        "projectName": "Ejercicio1S12",
-        "projectPath": "C:\\Users\\jesyg\\grafos\\Ejercicios-program-S12\\Ejercicio1S12\\Ejercicio1S12.csproj",
+        "projectUniqueName": "C:\\Users\\jesyg\\grafos\\Ejercicios-program-S12\\Ejercicio2S12\\Ejercicio2S12.csproj",
+        "projectName": "Ejercicio2S12",
+        "projectPath": "C:\\Users\\jesyg\\grafos\\Ejercicios-program-S12\\Ejercicio2S12\\Ejercicio2S12.csproj",
         "packagesPath": "C:\\Users\\jesyg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jesyg\\grafos\\Ejercicios-program-S12\\Ejercicio1S12\\obj\\",
+        "outputPath": "C:\\Users\\jesyg\\grafos\\Ejercicios-program-S12\\Ejercicio2S12\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
