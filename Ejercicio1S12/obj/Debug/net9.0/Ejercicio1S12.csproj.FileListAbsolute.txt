@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\C#\Ejercicios-program-S12\Ejercicio1S12\bin\Debug\net9.0\Ejercicio1S12.exe
+C:\Users\User\OneDrive\C#\Ejercicios-program-S12\Ejercicio1S12\bin\Debug\net9.0\Ejercicio1S12.deps.json
+C:\Users\User\OneDrive\C#\Ejercicios-program-S12\Ejercicio1S12\bin\Debug\net9.0\Ejercicio1S12.runtimeconfig.json
+C:\Users\User\OneDrive\C#\Ejercicios-program-S12\Ejercicio1S12\bin\Debug\net9.0\Ejercicio1S12.dll
+C:\Users\User\OneDrive\C#\Ejercicios-program-S12\Ejercicio1S12\bin\Debug\net9.0\Ejercicio1S12.pdb
+C:\Users\User\OneDrive\C#\Ejercicios-program-S12\Ejercicio1S12\obj\Debug\net9.0\Ejercicio1S12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\C#\Ejercicios-program-S12\Ejercicio1S12\obj\Debug\net9.0\Ejercicio1S12.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\C#\Ejercicios-program-S12\Ejercicio1S12\obj\Debug\net9.0\Ejercicio1S12.AssemblyInfo.cs
+C:\Users\User\OneDrive\C#\Ejercicios-program-S12\Ejercicio1S12\obj\Debug\net9.0\Ejercicio1S12.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\C#\Ejercicios-program-S12\Ejercicio1S12\obj\Debug\net9.0\Ejercicio1S12.sourcelink.json
+C:\Users\User\OneDrive\C#\Ejercicios-program-S12\Ejercicio1S12\obj\Debug\net9.0\Ejercicio1S12.dll
+C:\Users\User\OneDrive\C#\Ejercicios-program-S12\Ejercicio1S12\obj\Debug\net9.0\refint\Ejercicio1S12.dll
+C:\Users\User\OneDrive\C#\Ejercicios-program-S12\Ejercicio1S12\obj\Debug\net9.0\Ejercicio1S12.pdb
+C:\Users\User\OneDrive\C#\Ejercicios-program-S12\Ejercicio1S12\obj\Debug\net9.0\Ejercicio1S12.genruntimeconfig.cache
+C:\Users\User\OneDrive\C#\Ejercicios-program-S12\Ejercicio1S12\obj\Debug\net9.0\ref\Ejercicio1S12.dll
